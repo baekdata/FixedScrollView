@@ -16,5 +16,5 @@ If the length of the image is longer than the width, you can use it while mainta
 ex) layer형태의 안내팝업 페이지와 같은 상황에서 유용하다.
 
 
-#참고 
+# 참고 
 [baekdata](baekdata.github.io)
